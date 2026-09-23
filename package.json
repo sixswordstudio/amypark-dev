@@ -1,0 +1,14 @@
+{
+  "name": "amypark-dev",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Amy Park portfolio",
+  "main": "server.js",
+  "scripts": {
+    "build": "echo build",
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
